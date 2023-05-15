@@ -601,6 +601,7 @@ img {
   line-height: 2;
   letter-spacing: 0.04em;
   color: var(--color-white);
+  outline: transparent;
   background-color: transparent;
   border: 1px solid var(--color-white);
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
